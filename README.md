@@ -1,6 +1,6 @@
 # Hospital Management System
 
-LINK TO THE VIDEO:https://drive.google.com/file/d/1dx2Z0JPiOmTWMYWKqNaKDahNIGFmdnF_/view?usp=drive_link
+LINK TO THE VIDEO:https://drive.google.com/file/d/13wrUN0t6VsseQGmfClH_KEKLkPNyqdXM/view?usp=drive_link
 
 ## Description
 The Hospital Management System is a comprehensive application designed to manage various aspects of a hospital's operations. It includes functionalities for managing patients, doctors, appointments, and rooms.
